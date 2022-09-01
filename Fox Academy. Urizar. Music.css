@@ -1,0 +1,41 @@
+body{
+    background-color: #BFBEBA;
+}
+h2 p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 100px;
+    color: rgb(121, 0, 0);
+    text-decoration: underline;
+    text-decoration-color: rgb(121, 0, 0);
+}
+iframe{
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+ 
+}
+h3 a{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    font-size: 60px
+}
+
+a:hover{
+    transform: rotate(360deg);
+    transition: all 1s;
+}
+h3{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+footer{
+    display: flex;
+    align-items: flex-end;
+}
+
+
