@@ -21,11 +21,12 @@ body{
 section{
     display: grid;
     grid-template-columns: 950px 950px;
-    grid-template-rows: 350px;
+    grid-template-rows: 350px ;
 }
 
 .grid{
     text-align: center;
+    padding: 80px 50px 50px; 
 }
 
 h1{
